@@ -30,3 +30,24 @@ Adrien s'est chargé de nous expliquer la démarche à suivre.
 Il a ensuite fait en sorte que la mosaique soit responsive, que la fenêtre de l'article cliqué glisse sur la droite de l'écran et que la barre de navigation reste statique même si l'on skroll vers le bas de l'écran et se déploit lorsque lon clique dessus.
 
 //////////////////////////////////////////////////////////////////////////
+
+26/12/14
+
+Liliane a rédigé les articles suivants:
+- Aposematic Jacket
+- Mind Art - Xiong
+- Murmur - Chevalvert
+- Solaris - vtol
+- TPP - Mepi
+- VR Coaster
+
+Marine a rédigé ces articles:
+- Robotic Spiderdress - Anouk Wipprecht
+- Sensory Fiction - M.I.T
+- Terra Nova - Crew
+- E-Traces - Lesia Trubat Gonzalez
+- Robotic limb in "10D"
+
+Florian a réalisé
+- Touch Bionics
+
